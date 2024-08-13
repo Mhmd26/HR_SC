@@ -1,23 +1,19 @@
 {
-  "name": "Scorpion Source",
-  "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://i.ibb.co/wcW2S4d/Ephoto360-com-163942f57f3305.jpg",
+  "name": "𝗦𝗰𝗼𝗿𝗽𝗶𝗼𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 😁",
+  "description": "🙏🏻 اللهم صلِ على محمد وآل محمد",
+  "logo": "https://telegra.ph/file/0f4a83591c276e10137c3.jpg",
   "keywords": ["plugin", "modular", "productivity"],
-  "repository": "https://github.com/MohammedRD313/bita",
+  "repository": "https://github.com/Mhmd26/HR_SC",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
-    "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
-    },
     "APP_ID": {
       "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 أرقام", 
-      "value": ""
+      "value": "9514755"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك",
-      "value": ""
+      "value": "40e7041d06ea7b6ee1cf39b3188b3452"
     },
     "ENV": {
       "description": "لا تغير هذه القيمة",
