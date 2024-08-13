@@ -1,7 +1,7 @@
-FROM MohammedRD313/Scorpion:slim-buster
+FROM Mhmd26/ScoR:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/MohammedRD313/Scorpion.git /root/JoKeRUB
+RUN git clone https://github.com/Mhmd26/ScoR.git /root/JoKeRUB
 #working directory 
 WORKDIR /root/JoKeRUB
 
