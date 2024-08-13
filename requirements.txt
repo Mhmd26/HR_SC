@@ -7,8 +7,6 @@ ShazamAPI
 akinator
 asyncio
 selenium
-Flask
-flask_restful
 setuptools
 wheel
 cloudscraper
