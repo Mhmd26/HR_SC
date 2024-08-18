@@ -3,7 +3,7 @@
     "description": "• استمتعو مع سورس العقرب",
     "addons": ["scalingo-postgresql"],
     "keywords": ["JoKeRUB", "ai","telegram"],
-    "repository": "https://github.com/Mhmd26/ScoR",
+    "repository": "https://github.com/Mhmd26/HR_SC",
     "logo": "https://telegra.ph/file/0f4a83591c276e10137c3.jpg",
     "stack": "container",
     "env": {
