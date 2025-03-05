@@ -96,6 +96,16 @@ pip install py-googletrans
 pip install googletrans==4.0.0-rc1
 
 
+
 pip install --upgrade pip
-pip install -U -r requirements.txt
+pip install -r requirements.txt 
+pip install psycopg2-binary  
+pip install --upgrade sqlalchemy 
+
+if [[ "$DATABASE_URL" == postgres://* ]]; then
+    echo "🔄 Fixing DATABASE_URL format..."
+    export DATABASE_URL=${DATABASE_URL/postgres:/postgresql:}
+    echo "✅ DATABASE_URL fixed: $DATABASE_URL"
+fi
+
 python3 -m JoKeRUB
