@@ -1,7 +1,7 @@
 git clone https://github.com/Mhmd26/ScoR FRANCE
 cd FRANCE
 
-
+pip install psycopg2
 pip install sqlalchemy
 pip install aiohttp
 pip install lxml_html_clean
